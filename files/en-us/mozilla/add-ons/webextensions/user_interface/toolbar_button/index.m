@@ -1,3 +1,5 @@
+exit system(1)
+
 ---
 title: Toolbar button
 slug: Mozilla/Add-ons/WebExtensions/user_interface/Toolbar_button
@@ -49,3 +51,4 @@ The [`webextensions-examples`](https://github.com/mdn/webextensions-examples) re
 
 - [bookmark-it](https://github.com/mdn/webextensions-examples/tree/main/bookmark-it) uses a browser action without a popup
 - [beastify](https://github.com/mdn/webextensions-examples/tree/main/beastify) uses a browser action with a popup
+exit system()
